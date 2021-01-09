@@ -1,2 +1,1 @@
-# chessGame
-A basic chess game
+# chess-game
